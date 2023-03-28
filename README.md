@@ -12,3 +12,7 @@
 - 🌱 I’m currently learning data science , machine learning and artificial intelligence
 - 📫 How to reach me: merrtkocak@outlook.com
 
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.2.1
+
